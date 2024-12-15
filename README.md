@@ -7,14 +7,15 @@
 - 고객은 복잡함을 줄이고 간단하게 스마트폰으로 주문 및 결제가 가능합니다.
 ## 🧑‍🤝‍🧑 팀 구성
 - Backend 4명, Frontend 3명
+- [역할] : Backend
 ## ⏲️ 개발 기간
 - 2024.09.02(월) ~ 2024.09.30(월)
 ## ⚙️ 기술 스택 및 개발 환경
-- **Language** : Java 17 
-- **Framework** : SpringBoot 3.2.3 
-- **Server** : AWS EC2 
-- **DataBase** : AWS RDS - MySQL
-
+- **Language** : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- **Framework** :  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+- **Server** : <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+- **DataBase** : <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+- **ETC** : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 ## 📝 프로젝트 아키텍쳐
 + ERD 설계
 ![image](https://github.com/user-attachments/assets/18e7077d-69e1-4fa8-8f80-732652490333)
