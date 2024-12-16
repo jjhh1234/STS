@@ -19,7 +19,8 @@
 - **ETC** : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 ## 📝 프로젝트 아키텍쳐
 + ERD 설계
-![image](https://github.com/user-attachments/assets/18e7077d-69e1-4fa8-8f80-732652490333)
+![image](https://github.com/user-attachments/assets/d73aac1c-65dc-4b4c-87f8-9d50c98498cc)
+
 ## 📌 주요 기능
 1. **사업자**
    + 회원가입 및 로그인
