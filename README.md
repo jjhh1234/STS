@@ -11,6 +11,7 @@
 ## ✌️ 구현
 - [구현] : 기본 엔티티 및 리포지토리 생성, 카테고리 CRUD, 메뉴 CRUD, 옵션 CRUD, 옵션아이템 CRUD, 장바구니 CRUD
 - 개발 페이지 경로
+- back/src.../domain : cart , menu
 ## ⏲️ 개발 기간
 - 2024.09.02(월) ~ 2024.09.30(월)
 ## ⚙️ 기술 스택 및 개발 환경
@@ -22,7 +23,6 @@
 ## 📝 프로젝트 아키텍쳐
 + ERD 설계
 ![image](https://github.com/user-attachments/assets/d73aac1c-65dc-4b4c-87f8-9d50c98498cc)
-
 ## 📌 주요 기능
 1. **사업자**
    + 회원가입 및 로그인
